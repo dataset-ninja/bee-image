@@ -11,4 +11,4 @@ If you make use of the Bee Image Object Detection data, please cite the followin
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/andrewlca/bee-image-object-detection)
+[Source](https://www.kaggle.com/datasets/andrewlca/bee-image-object-detection)

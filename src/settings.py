@@ -20,8 +20,8 @@ PROJECT_NAME_FULL: str = "Bee Image Object Detection"
 # * After uploading to instance ##
 ##################################
 LICENSE: License = License.CC_BY_NC_ND_4_0()
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Livestock()]
-CATEGORY: Category = Category.Livestock()
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Livestock(is_used=False), Industry.Agricultural(is_used=False)]
+CATEGORY: Category = Category.Livestock(extra=Category.Agriculture())
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]

@@ -1,4 +1,4 @@
-**Bee Image Object Detection** is a dataset for an object detection task. It is used in the livestock industry. 
+**Bee Image Object Detection** is a dataset for an object detection task. Possible applications of the dataset could be in the livestock and agricultural industries. 
 
 The dataset consists of 3044 images with 21240 labeled objects belonging to 1 single class (*bee*).
 
