@@ -1,6 +1,6 @@
 Dataset **Bee Image Object Detection** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzEzMzNfQmVlIEltYWdlIE9iamVjdCBEZXRlY3Rpb24vYmVlLWltYWdlLW9iamVjdC1kZXRlY3Rpb24tRGF0YXNldE5pbmphLnRhciIsICJzaWciOiAiRHU5UzFOMFVWemMybWY1dkdHREswUnhiVDRwaDNQL1pmUDA2eHRScGhCbz0ifQ==)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMTMzM19CZWUgSW1hZ2UgT2JqZWN0IERldGVjdGlvbi9iZWUtaW1hZ2Utb2JqZWN0LWRldGVjdGlvbi1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICIyVHNaWmk4djd3UzE0UFBWSVNrVzFqc2hGQmw5emNGRy8rMVJjMXh2MmdJPSJ9?response-content-disposition=attachment%3B%20filename%3D%22bee-image-object-detection-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
